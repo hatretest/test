@@ -1,3 +1,11 @@
 seaborn
-kwant
+
 tinyarray
+name: kwant-tutorial
+
+channels:
+    - basnijholt
+
+dependencies:
+  - python=3.4
+  - kwant
